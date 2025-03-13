@@ -7,7 +7,7 @@ class Program
         //Välkoms medelande som välkomnar och berätta vad programet används till
         Console.WriteLine("Hej kära kund tack att du använder vårt program för att beräkna växel för ditt köp!");
 
-        //Secton som kunden anväder för att skriva in hur mycket kunden har köpt för, och kolla efter om det är gilltigt eller ej tal
+        //Secton som kunden anväder för att skriva in hur mycket kunden har köpt för, och kolla efter om det är gilltigt eller ej tal.
         decimal price = 0;
         bool valid = true;
         do
